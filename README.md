@@ -4,11 +4,13 @@ Simple JavaScript exercise creating a rock paper scissors game
 
 ![image](https://github.com/Jazib-Khan/Rock-Paper-Scissors/assets/57762628/fd377594-2242-48bb-8af2-48c785ffef2e)
 
+![image](https://github.com/Jazib-Khan/Rock-Paper-Scissors/assets/57762628/f00d6c1a-1078-4daf-9b70-e1bb2ebcc92a)
 
-![image](https://github.com/Jazib-Khan/Rock-Paper-Scissors/assets/57762628/7f16d586-f9da-4f1c-8af7-f3c2dd4b4332)
+![image](https://github.com/Jazib-Khan/Rock-Paper-Scissors/assets/57762628/8e639430-057f-4b71-8e03-8644b2f864ab)
 
-![image](https://github.com/Jazib-Khan/Rock-Paper-Scissors/assets/57762628/deb6126c-a024-47a5-b494-a31a24f5ce24)
+![image](https://github.com/Jazib-Khan/Rock-Paper-Scissors/assets/57762628/e5c75747-61d0-46c9-abf2-3621290ece6c)
 
-![image](https://github.com/Jazib-Khan/Rock-Paper-Scissors/assets/57762628/8c62f812-a139-4132-84c8-5ddc0af072db)
+
+
 
 
